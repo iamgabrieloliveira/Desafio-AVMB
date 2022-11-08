@@ -1,0 +1,1 @@
+const getOddNumbers = (N) => N.filter((n) => n % 2 !== 0).length;
