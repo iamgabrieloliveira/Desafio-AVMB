@@ -1,0 +1,1 @@
+const createObject = (C, V) => JSON.stringify({ [C]: V });
