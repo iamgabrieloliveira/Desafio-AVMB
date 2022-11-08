@@ -1,0 +1,1 @@
+const isPalindrome = (A) => A.split('').reverse().join('') === A;
